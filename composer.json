@@ -1,0 +1,21 @@
+{
+    "name": "cloud-castle/abstract-classes",
+    "description": "Коллекция абстрактных классов, реализующих различные паттерны программирования",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CloudCastle\\AbstractClasses\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Зорин Алексей",
+            "email": "zorinalexey59292@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8"
+    }
+}
